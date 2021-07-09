@@ -3,7 +3,7 @@ var h = document.querySelector('.countdown-hours');
 var m = document.querySelector('.countdown-minutes');
 var s = document.querySelector('.countdown-seconds');
 
-var targetDate = new Date('07/08/2021 12:20:00').getTime();
+var targetDate = new Date('07/11/2021 23:00:00').getTime();
 console.log(targetDate);
 
 var timeSet = (targetDate) => {
