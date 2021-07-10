@@ -4,6 +4,7 @@ Color
 454553 - star
 79768E - days, hours, second dll
 FB5D82 - pink
+2C2C44 34364F
 */
 
 @import url('https://fonts.googleapis.com/css2?family=Red+Hat+Text:ital,wght@0,400;0,500;0,700&display=swap');
@@ -71,8 +72,10 @@ body {
     align-items: center;
     font-style: normal;
     margin-top: 3rem;
-    width: 8rem;
-    height: 8rem;
+    width: 9rem;
+    height: 9rem;
+    background-color: #34364F;
+    border-radius: 10%;
 }
 
 .footer {
